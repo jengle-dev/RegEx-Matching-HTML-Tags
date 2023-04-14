@@ -22,13 +22,17 @@ This 'Regular Expression' (RegEx) is used to match and validate US phone numbers
 ## Regex Components
 
 ### Anchors
-Anchors can be used to match the phone number pattern only if it occurs at specific positions within the string. Those anchors do not match any characters otherwise. 
+Anchors can be used to match the phone number pattern only if it occurs at specific positions within the string. These anchors do not match any characters otherwise. 
 
 The two commonly used anchors that can be used with the phone number pattern are:
 * `^` (caret): matches the beginning of the string
 * `$` (dollar sign): matches the end of the string
 
 ### Quantifiers
+These quantifiers can be used to validate the number of occurances of a character or group of characters. 
+
+Some commonly used quantifiers that can be used with phone numbers are:
+* `+` (plug sign): matches one or more occurr
 
 ### Grouping Constructs
 
