@@ -60,3 +60,7 @@ The regular expression consists of two parts separated by the | operator:
 ## Author
 
 A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+
+
+## Status
+Incomplete and not posted or created on Gist
